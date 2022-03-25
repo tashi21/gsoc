@@ -4,4 +4,4 @@ An in progress website that has scraped data from [Google Summer of Code](https:
 
 This project was a way to learn the REACT framework and how to webscrape using Selenium. So far, I have created the scraping scripts and due to ongoing work have been unable to work on learning creating the website that leverages this data.
 
-I have created an (API)[https://github.com/tashi21/gsoc-api] using Go that uses the scraped data.
+I have created an [API](https://github.com/tashi21/gsoc-api) using Go that uses the scraped data.
